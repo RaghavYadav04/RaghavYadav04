@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Raghav</h1>
+<h1 align="center">Hi I'm Raghav</h1>
 <h3 align="center">A passionate Computer Engineering student at University Of Toronto</h3>
 
 - 🔭 I’m currently working on **FullStack/ML projects**
