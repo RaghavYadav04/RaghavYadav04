@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raghav</h1>
 <h3 align="center">A passionate Computer Engineering student at University Of Toronto</h3>
-
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fcoding&psig=AOvVaw27Ew0OUvfPDt8d45umF6z1&ust=1717220309468000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPi2paeWt4YDFQAAAAAdAAAAABAE"
 
 - 🔭 I’m currently working on **FullStack/ML projects**
 
