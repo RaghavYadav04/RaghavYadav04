@@ -1,5 +1,5 @@
 # About Me:
-🔭 I’m currently working on FullStack/ML projects<br>🌱 I’m currently learning Springboot, Django<br>👯 I’m looking to collaborate on ML/Fullstack Projects<br>💬 Ask me about JavaScript, React, Node.js and any software development question<br>📫 How to reach me raghavyadav1734@gmail.com<br>
+🔭 I’m currently working on FullStack/ML projects<br>🌱 I’m currently learning Springboot<br>👯 I’m looking to collaborate on ML/Fullstack Projects<br>💬 Ask me about JavaScript, React, Node.js and any software development question<br>📫 How to reach me raghavyadav1734@gmail.com<br>
 
 
 ## 🌐 Connect with me on:
